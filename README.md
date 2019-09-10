@@ -3,6 +3,6 @@ Interview Task
 
 Step to run the project
 
-Step 1: Clone the repo
-Step 2: Install the pod 
-Step 3:Run the project 
+Step 1: <b>Clone the repo</b><br>
+Step 2: <b>Install the pod </b><br>
+Step 3: <b>Run the project </b>
